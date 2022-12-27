@@ -60,3 +60,4 @@ with mp_objectron.Objectron(static_image_mode=False,
     if cv2.waitKey(5) & 0xFF == 27:
       break
 cap.release()
+#신발인식 코드
